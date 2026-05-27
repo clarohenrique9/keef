@@ -14,7 +14,7 @@
     "framer-motion": "^12.40.0",
     "lucide-react": "^1.16.0",
     "mercadopago": "^3.0.0",
-    "next": "15.2.3",
+    "next": "15.2.8",
     "react": "19.1.1",
     "react-dom": "19.1.1"
   },
